@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    tools:context=".Game1PlayActivity">
+
+    <TextView
+        android:id="@+id/game2_score_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/game2_score"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:gravity="bottom"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/game2_score"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:text="@string/game2_initial_score"
+        android:textSize="48sp"
+        android:padding="16dp"
+        android:gravity="top"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/game2_start_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/game2_start"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp" />
+
+    <TextView
+        android:id="@+id/game2_repeat_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/game2_repeat"
+        android:gravity="center"
+        android:visibility="gone"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp" />
+
+    <LinearLayout
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+        <Button
+            style="?android:attr/buttonBarButtonStyle"
+            android:id="@+id/c_button"
+            android:contentDescription="@string/game2_dog"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/game2_c_off"
+            android:layout_margin="16dp" />
+
+        <Button
+            style="?android:attr/buttonBarButtonStyle"
+            android:id="@+id/d_button"
+            android:contentDescription="@string/game2_cat"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/game2_d_off"
+            android:layout_margin="16dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+        <Button
+            style="?android:attr/buttonBarButtonStyle"
+            android:id="@+id/e_button"
+            android:contentDescription="@string/game2_horse"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/game2_e_off"
+            android:layout_margin="16dp" />
+
+        <Button
+            style="?android:attr/buttonBarButtonStyle"
+            android:id="@+id/f_button"
+            android:contentDescription="@string/game2_cow"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/game2_f_off"
+            android:layout_margin="16dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

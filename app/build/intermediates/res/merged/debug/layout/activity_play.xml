@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    tools:context=".PlayActivity">
+
+    <Button
+        android:id="@+id/game1_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:textSize="24sp"
+        android:text="@string/game1"
+        android:contentDescription="@string/game1_acc"
+        android:background="@color/game1Primary" />
+
+    <Button
+        android:id="@+id/game2_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:textSize="24sp"
+        android:text="@string/game2"
+        android:contentDescription="@string/game2_acc"
+        android:background="@color/game2Primary" />
+
+    <Button
+        android:id="@+id/game3_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:textSize="24sp"
+        android:text="@string/game3"
+        android:contentDescription="@string/game3_acc"
+        android:background="@color/game3Primary" />
+
+    <Button
+        android:id="@+id/game4_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:textSize="24sp"
+        android:text="@string/game4"
+        android:contentDescription="@string/game4_acc"
+        android:background="@color/game4Primary" />
+
+</LinearLayout>

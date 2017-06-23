@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/raw/cat.wav",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/raw/cat.wav"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/raw/silence.wav",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/raw/silence.wav"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/raw/d_sound.wav",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/raw/d_sound.wav"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/raw/cow.wav",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/raw/cow.wav"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/raw/dog.wav",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/raw/dog.wav"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/raw/c_sound.wav",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/raw/c_sound.wav"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/raw/f_sound.wav",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/raw/f_sound.wav"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/raw/e_sound.wav",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/raw/e_sound.wav"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/raw/horse.wav",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/raw/horse.wav"
+    }
+]

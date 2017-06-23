@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

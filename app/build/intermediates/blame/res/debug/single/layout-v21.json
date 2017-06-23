@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

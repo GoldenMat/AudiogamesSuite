@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="game1Primary">#F44336</color>
+    <color name="game1Dark">#D32F2F</color>
+    <color name="game1Light">#E57373</color>
+
+    <color name="game2Primary">#FF9800</color>
+    <color name="game2Dark">#F57C00</color>
+    <color name="game2Light">#FFB74D</color>
+
+    <color name="game3Primary">#2196F3</color>
+    <color name="game3Dark">#1976D2</color>
+    <color name="game3Light">#64B5F6</color>
+
+    <color name="game4Primary">#4CAF50</color>
+    <color name="game4Dark">#388E3C</color>
+    <color name="game4Light">#81C784</color>
+
+    <color name="game5Primary">#9C27B0</color>
+    <color name="game5Dark">#7B1FA2</color>
+    <color name="game5Light">#BA68C8</color>
+
+    <color name="game2_c_on">#15FC00</color>
+    <color name="game2_c_off">#0FA501</color>
+    <color name="game2_d_on">#FF0000</color>
+    <color name="game2_d_off">#960101</color>
+    <color name="game2_e_on">#FFE500</color>
+    <color name="game2_e_off">#A39200</color>
+    <color name="game2_f_on">#0083FF</color>
+    <color name="game2_f_off">#004D96</color>
+</resources>

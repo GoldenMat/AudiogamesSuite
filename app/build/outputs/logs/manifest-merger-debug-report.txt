@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:2:1-164:12
+	package
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:5:5-162:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/goldenmat/.android/build-cache/e598ac49c08950168ccae867e645781aebe0f274/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/goldenmat/.android/build-cache/107832e10cccdb6e2f17a1aac606548c87fc22ff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/goldenmat/.android/build-cache/d0d9a430b95621e6c05158fa1a854adbb13575a7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/goldenmat/.android/build-cache/1139408c38c241554877b95ad9f4d767f47f14ae/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/goldenmat/.android/build-cache/fefda9ec75e1462f818dcf32970a1770f9823f0f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/goldenmat/.android/build-cache/2dc4f19556a0680eeb1012fe567bd2fabf03f5b4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/goldenmat/.android/build-cache/0a6d3ce156675785a6edb3928d8629674c4e2fb7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/goldenmat/.android/build-cache/5aaa365732c389302f1ac8b339f8186221162526/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/goldenmat/.android/build-cache/48138309465066702346ecd0d06582a0f52ff2e6/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:11:9-40
+activity#it.unimi.di.lim.audiogames.MainActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:16:27-74
+activity#it.unimi.di.lim.audiogames.InfoActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:21:13-55
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:24:13-26:49
+	android:value
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:26:17-46
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:25:17-63
+activity#it.unimi.di.lim.audiogames.PlayActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:29:13-41
+activity#it.unimi.di.lim.audiogames.Game1Activity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:37:9-46:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:39:13-35
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:40:13-55
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:38:13-42
+activity#it.unimi.di.lim.audiogames.Game1PlayActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:47:9-56:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:49:13-35
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:48:13-46
+activity#it.unimi.di.lim.audiogames.Game1HowActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:57:9-66:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:59:13-43
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:58:13-45
+activity#it.unimi.di.lim.audiogames.Game2Activity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:67:9-76:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:69:13-34
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:70:13-55
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:68:13-42
+activity#it.unimi.di.lim.audiogames.Game2PlayActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:77:9-86:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:79:13-34
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:80:13-56
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:78:13-46
+activity#it.unimi.di.lim.audiogames.Game2HowActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:87:9-96:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:89:13-43
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:90:13-56
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:88:13-45
+activity#it.unimi.di.lim.audiogames.Game3Activity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:97:9-106:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:99:13-38
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:100:13-55
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:98:13-42
+activity#it.unimi.di.lim.audiogames.Game3PlayActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:107:9-116:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:109:13-38
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:110:13-56
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:108:13-46
+activity#it.unimi.di.lim.audiogames.Game3HowActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:117:9-126:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:119:13-43
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:120:13-56
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:118:13-45
+activity#it.unimi.di.lim.audiogames.Game4Activity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:127:9-136:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:129:13-39
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:130:13-55
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:128:13-42
+activity#it.unimi.di.lim.audiogames.Game4PlayActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:137:9-146:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:139:13-39
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:140:13-56
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:138:13-46
+activity#it.unimi.di.lim.audiogames.Game4HowActivity
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:147:9-156:20
+	android:label
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:149:13-43
+	android:parentActivityName
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:150:13-56
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:148:13-45
+uses-feature#android.software.midi
+ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:158:9-160:39
+	android:required
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:160:13-36
+	android:name
+		ADDED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml:159:13-49
+uses-sdk
+INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/goldenmat/.android/build-cache/e598ac49c08950168ccae867e645781aebe0f274/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/goldenmat/.android/build-cache/107832e10cccdb6e2f17a1aac606548c87fc22ff/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/goldenmat/.android/build-cache/d0d9a430b95621e6c05158fa1a854adbb13575a7/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/goldenmat/.android/build-cache/1139408c38c241554877b95ad9f4d767f47f14ae/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/goldenmat/.android/build-cache/fefda9ec75e1462f818dcf32970a1770f9823f0f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/goldenmat/.android/build-cache/2dc4f19556a0680eeb1012fe567bd2fabf03f5b4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/goldenmat/.android/build-cache/0a6d3ce156675785a6edb3928d8629674c4e2fb7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/goldenmat/.android/build-cache/5aaa365732c389302f1ac8b339f8186221162526/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/goldenmat/.android/build-cache/48138309465066702346ecd0d06582a0f52ff2e6/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/goldenmat/.android/build-cache/e598ac49c08950168ccae867e645781aebe0f274/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/goldenmat/.android/build-cache/107832e10cccdb6e2f17a1aac606548c87fc22ff/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/goldenmat/.android/build-cache/d0d9a430b95621e6c05158fa1a854adbb13575a7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/goldenmat/.android/build-cache/1139408c38c241554877b95ad9f4d767f47f14ae/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/goldenmat/.android/build-cache/fefda9ec75e1462f818dcf32970a1770f9823f0f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/goldenmat/.android/build-cache/2dc4f19556a0680eeb1012fe567bd2fabf03f5b4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/goldenmat/.android/build-cache/0a6d3ce156675785a6edb3928d8629674c4e2fb7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/goldenmat/.android/build-cache/5aaa365732c389302f1ac8b339f8186221162526/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/goldenmat/.android/build-cache/b4188bc148d063b6383bde8f5cb195d3dea3295d/output/AndroidManifest.xml:26:9-47

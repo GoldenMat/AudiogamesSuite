@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="it.unimi.di.lim.audiogames"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="it.unimi.di.lim.audiogames.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.InfoActivity"
+            android:parentActivityName="it.unimi.di.lim.audiogames.MainActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.PlayActivity"
+            android:parentActivityName="it.unimi.di.lim.audiogames.MainActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game1Activity"
+            android:label="Picker"
+            android:parentActivityName="it.unimi.di.lim.audiogames.PlayActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PlayActivity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game1PlayActivity"
+            android:label="Picker"
+            android:parentActivityName="it.unimi.di.lim.audiogames.Game1Activity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Game1Activity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game1HowActivity"
+            android:label="@string/how_to"
+            android:parentActivityName="it.unimi.di.lim.audiogames.Game1Activity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Game1Activity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game2Activity"
+            android:label="Simon"
+            android:parentActivityName="it.unimi.di.lim.audiogames.PlayActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PlayActivity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game2PlayActivity"
+            android:label="Simon"
+            android:parentActivityName="it.unimi.di.lim.audiogames.Game2Activity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Game2Activity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game2HowActivity"
+            android:label="@string/how_to"
+            android:parentActivityName="it.unimi.di.lim.audiogames.Game2Activity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Game2Activity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game3Activity"
+            android:label="Worldwide"
+            android:parentActivityName="it.unimi.di.lim.audiogames.PlayActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PlayActivity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game3PlayActivity"
+            android:label="Worldwide"
+            android:parentActivityName="it.unimi.di.lim.audiogames.Game3Activity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Game3Activity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game3HowActivity"
+            android:label="@string/how_to"
+            android:parentActivityName="it.unimi.di.lim.audiogames.Game3Activity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Game3Activity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game4Activity"
+            android:label="Mastermind"
+            android:parentActivityName="it.unimi.di.lim.audiogames.PlayActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PlayActivity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game4PlayActivity"
+            android:label="Mastermind"
+            android:parentActivityName="it.unimi.di.lim.audiogames.Game4Activity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Game4Activity" />
+        </activity>
+        <activity
+            android:name="it.unimi.di.lim.audiogames.Game4HowActivity"
+            android:label="@string/how_to"
+            android:parentActivityName="it.unimi.di.lim.audiogames.Game4Activity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Game4Activity" />
+        </activity>
+
+        <uses-feature
+            android:name="android.software.midi"
+            android:required="true" />
+    </application>
+
+</manifest>

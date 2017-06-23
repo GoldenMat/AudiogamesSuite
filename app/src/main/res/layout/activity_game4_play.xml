@@ -1,0 +1,195 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Game4PlayActivity">
+
+    <TextView
+        android:id="@+id/game4_attempts_left"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/game4_attempts"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:gravity="bottom"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/game4_score"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/game4_initial_attempts"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:padding="16dp"
+        android:gravity="top"
+        android:textAlignment="center" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:visibility="invisible"
+                android:id="@+id/game4_digit_1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:padding="16dp"
+                android:gravity="top"
+                android:textAlignment="center" />
+
+            <ImageView
+                android:visibility="invisible"
+                android:id="@+id/game4_check_1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:padding="8dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:visibility="invisible"
+                android:id="@+id/game4_digit_2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:padding="16dp"
+                android:gravity="top"
+                android:textAlignment="center" />
+
+            <ImageView
+                android:visibility="invisible"
+                android:id="@+id/game4_check_2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:padding="8dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:visibility="invisible"
+                android:id="@+id/game4_digit_3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:padding="16dp"
+                android:gravity="top"
+                android:textAlignment="center" />
+
+            <ImageView
+                android:visibility="invisible"
+                android:id="@+id/game4_check_3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:padding="8dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:visibility="invisible"
+                android:id="@+id/game4_digit_4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:padding="16dp"
+                android:gravity="top"
+                android:textAlignment="center" />
+
+            <ImageView
+                android:visibility="invisible"
+                android:id="@+id/game4_check_4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:padding="8dp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:text="@string/game4_insert"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:focusableInTouchMode="true"
+        android:focusable="true">
+
+        <EditText
+            android:id="@+id/game4_attempt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="32dp"
+            android:gravity="center"
+            android:inputType="number"
+            android:maxLength="4" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/game4_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="@string/game4_submit"/>
+
+</LinearLayout>

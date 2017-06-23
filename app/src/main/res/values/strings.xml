@@ -1,0 +1,383 @@
+<resources>
+    <string name="app_name" translatable="false">Audiogames Suite</string>
+    <string name="play">Play</string>
+    <string name="how_to">Info</string>
+    <string name="info">Info</string>
+    <string name="site">lim.di.unimi.it</string>
+    <string name="site_acc">University of Milan. Computer Science Department. Musical Computer Science Lab.</string>
+    <string name="new_game">New game</string>
+    <string name="lost_game">Back to menu</string>
+    <string name="instructions">Instructions</string>
+    <string name="instr_ok">OK</string>
+    <string name="instr_dont">Don\'t show me again</string>
+
+    <string name="game1" translatable="false">Picker</string>
+    <string name="game1_acc">Game 1. Picker</string>
+    <string name="game2" translatable="false">Simon</string>
+    <string name="game2_acc">Game 2. Simon</string>
+    <string name="game3" translatable="false">Worldwide</string>
+    <string name="game3_acc">Game 3. Worldwide</string>
+    <string name="game4" translatable="false">Mastermind</string>
+    <string name="game4_acc">Game 4. Mastermind</string>
+
+    <string name="info_content">Audiogames Suite developed by Matteo Dell\'Oro, Musical Computer Science student at Università degli Studi di Milano, collaborating with LIM (Laboratorio di Informatica Musicale) of the Computer Science Department.</string>
+    <string name="info_content2">Strongly recommended to use the app with vertical orientation (portrait).</string>
+
+    <string name="game1_how_content">Picker is a game where the player is presented 2 sounds with different pitches. He has to decide which sound\'s pitch is higher or lower, depending on what the instructions ask. Guessing a sound reduces the difference between the pitches of the next round, while making a mistake ends the game. The sounds can be repeated by pressing the repeat button.</string>
+
+    <string name="game2_how_content">Simon is a memory game where the player has to repeat the combination of sounds played by the computer in the same exact order. It starts from a single sound and adds an additional one every round. Repeating the exact sequence of the round awards 1 point. Doing a mistake ends the game.</string>
+    <string name="game3_how_content">Worldwide is a translation game where the player is presented a sentence in English and he has to translate it in a foreign one. Currently there are 2 different languages to choose from (Spanish and Italian). Every sentence has 4 possible translations to choose from and only one is correct. A game lasts 8 rounds with a sentence each. Clicking on the sentence triggers the local pronunciation.</string>
+    <string name="game4_how_content">Mastermind is a game where the player has to break the code generated randomly from the computer. A code is a 4 digits number, each digit ranging from 0 to 9. Close the keyboard after inserting the code in order to click the submit button. Making an attempt triggers different hints if the digit is in the code and in the right place (green light in the graphic version), if the digit is in the code but not in that place (yellow light in the graphic version) and if the digit is not in the code at all (red light in the graphic version). A maximum of 9 attempts can be made before the game ends.</string>
+
+    <string name="game1_basic">Click play to start!</string>
+    <string name="game1_score">Score</string>
+    <string name="game1_initial_score" translatable="false">0</string>
+    <string name="game1_left">First sound</string>
+    <string name="game1_right">Second sound</string>
+    <string name="game1_start">Start</string>
+    <string name="game1_repeat">Repeat</string>
+    <string name="game1_next">Next round</string>
+    <string name="game1_high">Select the higher pitched sound</string>
+    <string name="game1_low">Select the lower pitched sound</string>
+    <string name="game1_loss">You lost!</string>
+    <string name="game1_result">Final score:</string>
+    <string name="game1_success">Nice job! Score:</string>
+
+    <string name="game2_basic">Click play to start!</string>
+    <string name="game2_score">Score</string>
+    <string name="game2_result">Your score:</string>
+    <string name="game2_initial_score" translatable="false">0</string>
+    <string name="game2_repeat">Repeat the sound sequence</string>
+    <string name="game2_next">Next round</string>
+    <string name="game2_start">Start</string>
+    <string name="game2_dog">Dog</string>
+    <string name="game2_cat">Cat</string>
+    <string name="game2_horse">Horse</string>
+    <string name="game2_cow">Cow</string>
+    <string name="game2_loss">You lost!</string>
+    <string name="game2_success">Nice job! Score:</string>
+
+    <string name="game3_basic">Click a flag to start!</string>
+    <string name="game3_answer">Answer</string>
+    <string name="game3_initial_score" translatable="false">0</string>
+    <string name="game3_result">Your score:</string>
+    <string name="game3_result_good">Congratulations! The answer was correct. Your score:</string>
+    <string name="game3_result_bad">Argh! Wrong answer! Your score:</string>
+    <string name="game3_please">Please select an option!</string>
+    <string name="game3_es">Play in Spanish</string>
+    <string name="game3_it">Play in Italian</string>
+    <string name="game3_pick_1">Pick first translation</string>
+    <string name="game3_pick_2">Pick second translation</string>
+    <string name="game3_pick_3">Pick third translation</string>
+    <string name="game3_pick_4">Pick fourth translation</string>
+    <string name="game3_answer_1">First translation, click to read</string>
+    <string name="game3_answer_2">Second translation, click to read</string>
+    <string name="game3_answer_3">Third translation, click to read</string>
+    <string name="game3_answer_4">Fourth translation, click to read</string>
+    <string name="game3_end">Game over!</string>
+
+    <string name="game4_basic">Click play to start!</string>
+    <string name="game4_attempts">Attempts left</string>
+    <string name="game4_initial_attempts" translatable="false">9</string>
+    <string name="game4_insert">Insert the code in the box below</string>
+    <string name="game4_submit">Submit</string>
+    <string name="game4_win">Congratulations you won!</string>
+    <string name="game4_lose">Argh you lost!</string>
+    <string name="game4_code_was">The code was: </string>
+    <string name="game4_digit">Digit</string>
+    <string name="game4_digit1_wrong">Digit 1. Error! The digit is not in the code</string>
+    <string name="game4_digit1_almost">Digit 1. Almost! The digit is in the code but in another place. It might be a place already guessed!</string>
+    <string name="game4_digit1_ok">Digit 1. OK! The digit is in the right place</string>
+    <string name="game4_digit2_wrong">Digit 2. Error! The digit is not in the code</string>
+    <string name="game4_digit2_almost">Digit 2. Almost! The digit is in the code but in another place. It might be a place already guessed!</string>
+    <string name="game4_digit2_ok">Digit 2. OK! The digit is in the right place</string>
+    <string name="game4_digit3_wrong">Digit 3. Error! The digit is not in the code</string>
+    <string name="game4_digit3_almost">Digit 3. Almost! The digit is in the code but in another place. It might be a place already guessed!</string>
+    <string name="game4_digit3_ok">Digit 3. OK! The digit is in the right place</string>
+    <string name="game4_digit4_wrong">Digit 4. Error! The digit is not in the code</string>
+    <string name="game4_digit4_almost">Digit 4. Almost! The digit is in the code but in another place. It might be a place already guessed!</string>
+    <string name="game4_digit4_ok">Digit 4. OK! The digit is in the right place</string>
+    <string name="game4_warn_plus">Error! You can\'t put a higher digit than 9.</string>
+    <string name="game4_warn_minus">Error! You can\'t put a lower digit than 0.</string>
+    <string name="game4_code_missing">Please insert a full code!</string>
+
+
+    <string-array name="game3_es_questions">
+        <item>We have two cakes.</item>
+        <item>Where is my bathing suit?</item>
+        <item>Can you drive me to the airport?</item>
+        <item>Hotel rooms are too noisy.</item>
+        <item>I cannot find another candle.</item>
+        <item>She walks every night after dinner.</item>
+        <item>When is Valentine\'s Day?</item>
+        <item>Did you blow out the candles?</item>
+        <item>We accept your invitation.</item>
+        <item>This theater is twenty years old.</item>
+        <item>He is planning a celebration.</item>
+        <item>The children have plastic whistles.</item>
+        <item>I meet them here every day."</item>
+        <item>This blanket is red.</item>
+        <item>Those waitresses are slow.</item>
+        <item>The airplane has many seats.</item>
+        <item>There are twenty gates in this airport.</item>
+        <item>I want to learn how to drive a car.</item>
+        <item>Are we still friends?</item>
+        <item>I am going out tonight.</item>
+    </string-array>
+
+    <string-array name="game3_es_answer1">
+        <item>No tienen más boletos.</item>
+        <item>¿Cuántos hoteles hay cerca del aeropuerto?</item>
+        <item>No nadamos muy bien.</item>
+        <item>Son turistas en este país.</item>
+        <item>El tren está atrasado otra vez.</item>
+        <item>Ella camina cada noche después de la cena.</item>
+        <item>Quiero aprender a conducír un coche.</item>
+        <item>¿Es él su novio?</item>
+        <item>Aceptamos su invitación.</item>
+        <item>Tenemos un árbol de Navidad pequeño.</item>
+        <item>Los océanos son muy grandes.</item>
+        <item>Es una onda grande.</item>
+        <item>Los pájaros se sientan en las boyas.</item>
+        <item>Esta manta es roja.</item>
+        <item>Mi hija lee todo el dia.</item>
+        <item>¿Qué deportes la gustan a usted?</item>
+        <item>El salvavidas se sienta en su silla.</item>
+        <item>Quiero aprender a conducir un coche.</item>
+        <item>No puedo jugar al piano.</item>
+        <item>Salgo esta noche.</item>
+    </string-array>
+
+    <string-array name="game3_es_answer2">
+        <item>Vivo al lado del océano.</item>
+        <item>¿Dónde está mi bañador?</item>
+        <item>Él está planeando una celebración.</item>
+        <item>Ella no es mi novia.</item>
+        <item>No puedo encontrar otra vela.</item>
+        <item>Este avión tiene cuatro tripulantes de vuelo.</item>
+        <item>Salen cada noche.</item>
+        <item>Los aviones vuelan sobre nuestra casa.</item>
+        <item>Los pájaros se sientan en las boyas.</item>
+        <item>Este teatro tiene veinte años.</item>
+        <item>¿Dónde está la estación de seguridad?</item>
+        <item>Los niños tienen silbato de plástico.</item>
+        <item>¿Dónde están mis palas?</item>
+        <item>¿Dónde está mi bañador?</item>
+        <item>¿Cuántos hoteles hay cerca del aeropuerto?</item>
+        <item>El avión tiene muchos asientos.</item>
+        <item>A mi abuelo le gusta pescar.</item>
+        <item>Él goza de todas las celebraciones.</item>
+        <item>Los muchachos hatinan después de la escuela.</item>
+        <item>Les gusta tener fiestas.</item>
+    </string-array>
+
+    <string-array name="game3_es_answer3">
+        <item>Tenemos dos tortas.</item>
+        <item>Sus gafas de sol son bonitas.</item>
+        <item>La boya flota en el océano.</item>
+        <item>Los cuartos de hotel son demasiado ruidosos.</item>
+        <item>No se olvide de pagar la cuenta.</item>
+        <item>Los trenes están demasiado llenos de gente.</item>
+        <item>Los niños tienen silbato de plástico.</item>
+        <item>¿Sopló usted las velas?</item>
+        <item>Ella invita a sus amigos a las fiestas.</item>
+        <item>¿A usted le gusta volar?</item>
+        <item>Ella juega golf cada semana.</item>
+        <item>Odiamos viajar.</item>
+        <item>Me gusta jugar al tenis.</item>
+        <item>Ésta es su tercera boda.</item>
+        <item>Esas camareras son lentas.</item>
+        <item>Los muchachos juegan mal al béisbol.</item>
+        <item>Hay viente puertas en este aeropuerto.</item>
+        <item>Hay cinco guardias de seguridad.</item>
+        <item>Aceptamos su invitación.</item>
+        <item>¿Cuáles son sus planes para el dia del Año Nuevo?</item>
+    </string-array>
+
+    <string-array name="game3_es_answer4">
+        <item>¿Es ése el terminal del aeropuerto?</item>
+        <item>Nunca bailo.</item>
+        <item>¿Puede usted conducirme al aeropuerto?</item>
+        <item>Los muchachos atinan después de la escuela.</item>
+        <item>¿Puede usted jugar al béisbol?</item>
+        <item>¿Baila usted?</item>
+        <item>¿Cuándo es el Dia de los Enamorados?</item>
+        <item>El salvavidas se sienta en su silla.</item>
+        <item>Ella puso sus maletas en su coche.</item>
+        <item>Usted puede comprar cubos en mi tienda.</item>
+        <item>Él está planeando una celebración.</item>
+        <item>Él ya nunca juega más al golf.</item>
+        <item>Los encuentro aquí todos los días.</item>
+        <item>¿Cuándo es el Dia de los Enamorados?</item>
+        <item>¿Sabe usted nadar?</item>
+        <item>¿Puede usted sentarse en las toallas limpias?</item>
+        <item>Los muchachos juegan con un castillo de arena.</item>
+        <item>Usted nunca compra tarjetas de saludo.</item>
+        <item>¿Somos aun amigos?</item>
+        <item>Su padre conduce un taxi amarillo grande.</item>
+    </string-array>
+
+    <string-array name="game3_es_correct">
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="game3_it_questions">
+        <item>We have two cakes.</item>
+        <item>Where is my bathing suit?</item>
+        <item>Can you drive me to the airport?</item>
+        <item>Hotel rooms are too noisy.</item>
+        <item>I cannot find another candle.</item>
+        <item>She walks every night after dinner.</item>
+        <item>When is Valentine\'s Day?</item>
+        <item>Did you blow out the candles?</item>
+        <item>We accept your invitation.</item>
+        <item>This theater is twenty years old.</item>
+        <item>He is planning a celebration.</item>
+        <item>The children have plastic whistles.</item>
+        <item>I meet them here every day."</item>
+        <item>This blanket is red.</item>
+        <item>Those waitresses are slow.</item>
+        <item>The airplane has many seats.</item>
+        <item>There are twenty gates in this airport.</item>
+        <item>I want to learn how to drive a car.</item>
+        <item>Are we still friends?</item>
+        <item>I am going out tonight.</item>
+    </string-array>
+
+    <string-array name="game3_it_answer1">
+        <item>Non ci sono piú biglietti.</item>
+        <item>Quanti hotel ci sono vicino all\'aeroporto?</item>
+        <item>Non nuotiamo molto bene.</item>
+        <item>Ci sono turisti in questo paese.</item>
+        <item>Il treno è nuovamente in ritardo.</item>
+        <item>Ella cammina ogni sera dopo cena.</item>
+        <item>Voglio imparare a guidare la macchina.</item>
+        <item>È suo marito?</item>
+        <item>Accettiamo il tuo invito.</item>
+        <item>Abbiamo un albero di Natale piccolo.</item>
+        <item>Gli oceani sono molto grandi.</item>
+        <item>È un\'onda grande.</item>
+        <item>Gli uccelli si siedono sulle boe.</item>
+        <item>Questa coperta è rossa.</item>
+        <item>Mia figlia ha letto tutto il giorno.</item>
+        <item>Che sport ti piacciono?</item>
+        <item>Il bagnino si siede sulla sua sedia.</item>
+        <item>Voglio imparare a guidare la macchina.</item>
+        <item>Non sono capace di suonare il piano.</item>
+        <item>Esco stasera.</item>
+    </string-array>
+
+    <string-array name="game3_it_answer2">
+        <item>Vivo accanto all\'oceano</item>
+        <item>Dov\'è il mio costume da bagno?</item>
+        <item>Egli sta organizzando una festa.</item>
+        <item>Lei non è mia moglie.</item>
+        <item>Non riesco a trovare un\'altra candela.</item>
+        <item>Questo aereo ha quattro assistenti di volo.</item>
+        <item>Escono tutte le sere.</item>
+        <item>Gli aerei volano sopra casa nostra.</item>
+        <item>Gli uccelli si appoggiano sulla boa.</item>
+        <item>Questo teatro ha vent\'anni.</item>
+        <item>Dov\'è la stazione di sicurezza?</item>
+        <item>I bambini hanno fischietti di plastica.</item>
+        <item>Dove sono i miei palloni?</item>
+        <item>Dov\'è il mio costume da bagno?</item>
+        <item>Quanti hotel ci sono nei pressi dell\'aeroporto?</item>
+        <item>L\'aereo ha molti posti a sedere.</item>
+        <item>A mio nonno piace pescare.</item>
+        <item>È sempre a tutte le feste.</item>
+        <item>I ragazzi giocano dopo la scuola.</item>
+        <item>Gli piace organizzare feste.</item>
+    </string-array>
+
+    <string-array name="game3_it_answer3">
+        <item>Abbiamo due torte</item>
+        <item>I suoi occhiali da sole sono belli.</item>
+        <item>La boa galleggia nell\'oceano.</item>
+        <item>Le stanze di hotel sono troppo rumorose.</item>
+        <item>Non ti dimenticare di pagare il conto.</item>
+        <item>I treni sono troppo affollati di gente.</item>
+        <item>I bambini hanno dei fischietti di plastica.</item>
+        <item>Hai soffiato tu le candele?</item>
+        <item>Lei ha invitato i suoi amici alla festa.</item>
+        <item>Le piace volare?</item>
+        <item>Lei gioca a golf ogni settimana.</item>
+        <item>Odiamo viaggiare.</item>
+        <item>Mi piace giocare a tennis.</item>
+        <item>Questo è il suo terzo matrimonio.</item>
+        <item>Queste cameriere sono lente.</item>
+        <item>I ragazzi non giocano bene a baseball.</item>
+        <item>Ci sono venti gate in questo aeroporto.</item>
+        <item>Ci sono cinque addetti alla sicurezza.</item>
+        <item>Accettiamo il suo invito.</item>
+        <item>Cosa fai a Capodanno?</item>
+    </string-array>
+
+    <string-array name="game3_it_answer4">
+        <item>È questo il terminal dell\'aeroporto?</item>
+        <item>Non ballo mai.</item>
+        <item>Potresti portarmi all\'aeroporto?</item>
+        <item>I ragazzi giocano dopo la scuola.</item>
+        <item>Sei capace di giocare a baseball?</item>
+        <item>Sa ballare?</item>
+        <item>Quando è San Valentino?</item>
+        <item>Il bagnino si siede sulla sua sedia.</item>
+        <item>Ha lasciato le valigie nella sua macchina.</item>
+        <item>È possibile acquistare cubi nel mio negozio.</item>
+        <item>Sta organizzando una festa.</item>
+        <item>Egli non gioca mai a golf.</item>
+        <item>Li incontro qua ogni giorno.</item>
+        <item>Quand\'è San Valentino?</item>
+        <item>Sa nuotare?</item>
+        <item>Puoi sederti sugli asciugamani puliti?</item>
+        <item>I ragazzi giocano con i castelli di sabbia.</item>
+        <item>Non compri mai una cartolina.</item>
+        <item>Siamo ancora amici?</item>
+        <item>Suo padre guida un grande taxi giallo.</item>
+    </string-array>
+
+    <string-array name="game3_it_correct">
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+
+
+    <string name="acc_logo" translatable="false">Logo</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-xhdpi/it.png",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/drawable-xhdpi/it.png"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-xhdpi/game4_yellow.png",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/drawable-xhdpi/game4_yellow.png"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-xhdpi/es.png",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/drawable-xhdpi/es.png"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-xhdpi/game4_green.png",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/drawable-xhdpi/game4_green.png"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-xhdpi/game4_red.png",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/drawable-xhdpi/game4_red.png"
+    },
+    {
+        "merged": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/build/intermediates/res/merged/debug/drawable-xhdpi/play_arrow.png",
+        "source": "/home/goldenmat/AndroidStudioProjects/AudiogamesSuite/app/src/main/res/drawable-xhdpi/play_arrow.png"
+    }
+]

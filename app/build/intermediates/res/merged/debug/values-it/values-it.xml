@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game3_es_answer1">
+        <item>No tienen más boletos.</item>
+        <item>¿Cuántos hoteles hay cerca del aeropuerto?</item>
+        <item>No nadamos muy bien.</item>
+        <item>Son turistas en este país.</item>
+        <item>El tren está atrasado otra vez.</item>
+        <item>Ella camina cada noche después de la cena.</item>
+        <item>Quiero aprender a conducír un coche.</item>
+        <item>¿Es él su novio?</item>
+        <item>Aceptamos su invitación.</item>
+        <item>Tenemos un árbol de Navidad pequeño.</item>
+        <item>Los océanos son muy grandes.</item>
+        <item>Es una onda grande.</item>
+        <item>Los pájaros se sientan en las boyas.</item>
+        <item>Esta manta es roja.</item>
+        <item>Mi hija lee todo el dia.</item>
+        <item>¿Qué deportes la gustan a usted?</item>
+        <item>El salvavidas se sienta en su silla.</item>
+        <item>Quiero aprender a conducir un coche.</item>
+        <item>No puedo jugar al piano.</item>
+        <item>Salgo esta noche.</item>
+    </string-array>
+    <string-array name="game3_es_answer2">
+        <item>Vivo al lado del océano.</item>
+        <item>¿Dónde está mi bañador?</item>
+        <item>Él está planeando una celebración.</item>
+        <item>Ella no es mi novia.</item>
+        <item>No puedo encontrar otra vela.</item>
+        <item>Este avión tiene cuatro tripulantes de vuelo.</item>
+        <item>Salen cada noche.</item>
+        <item>Los aviones vuelan sobre nuestra casa.</item>
+        <item>Los pájaros se sientan en las boyas.</item>
+        <item>Este teatro tiene veinte años.</item>
+        <item>¿Dónde está la estación de seguridad?</item>
+        <item>Los niños tienen silbato de plástico.</item>
+        <item>¿Dónde están mis palas?</item>
+        <item>¿Dónde está mi bañador?</item>
+        <item>¿Cuántos hoteles hay cerca del aeropuerto?</item>
+        <item>El avión tiene muchos asientos.</item>
+        <item>A mi abuelo le gusta pescar.</item>
+        <item>Él goza de todas las celebraciones.</item>
+        <item>Los muchachos hatinan después de la escuela.</item>
+        <item>Les gusta tener fiestas.</item>
+    </string-array>
+    <string-array name="game3_es_answer3">
+        <item>Tenemos dos tortas.</item>
+        <item>Sus gafas de sol son bonitas.</item>
+        <item>La boya flota en el océano.</item>
+        <item>Los cuartos de hotel son demasiado ruidosos.</item>
+        <item>No se olvide de pagar la cuenta.</item>
+        <item>Los trenes están demasiado llenos de gente.</item>
+        <item>Los niños tienen silbato de plástico.</item>
+        <item>¿Sopló usted las velas?</item>
+        <item>Ella invita a sus amigos a las fiestas.</item>
+        <item>¿A usted le gusta volar?</item>
+        <item>Ella juega golf cada semana.</item>
+        <item>Odiamos viajar.</item>
+        <item>Me gusta jugar al tenis.</item>
+        <item>Ésta es su tercera boda.</item>
+        <item>Esas camareras son lentas.</item>
+        <item>Los muchachos juegan mal al béisbol.</item>
+        <item>Hay viente puertas en este aeropuerto.</item>
+        <item>Hay cinco guardias de seguridad.</item>
+        <item>Aceptamos su invitación.</item>
+        <item>¿Cuáles son sus planes para el dia del Año Nuevo?</item>
+    </string-array>
+    <string-array name="game3_es_answer4">
+        <item>¿Es ése el terminal del aeropuerto?</item>
+        <item>Nunca bailo.</item>
+        <item>¿Puede usted conducirme al aeropuerto?</item>
+        <item>Los muchachos atinan después de la escuela.</item>
+        <item>¿Puede usted jugar al béisbol?</item>
+        <item>¿Baila usted?</item>
+        <item>¿Cuándo es el Dia de los Enamorados?</item>
+        <item>El salvavidas se sienta en su silla.</item>
+        <item>Ella puso sus maletas en su coche.</item>
+        <item>Usted puede comprar cubos en mi tienda.</item>
+        <item>Él está planeando una celebración.</item>
+        <item>Él ya nunca juega más al golf.</item>
+        <item>Los encuentro aquí todos los días.</item>
+        <item>¿Cuándo es el Dia de los Enamorados?</item>
+        <item>¿Sabe usted nadar?</item>
+        <item>¿Puede usted sentarse en las toallas limpias?</item>
+        <item>Los muchachos juegan con un castillo de arena.</item>
+        <item>Usted nunca compra tarjetas de saludo.</item>
+        <item>¿Somos aun amigos?</item>
+        <item>Su padre conduce un taxi amarillo grande.</item>
+    </string-array>
+    <string-array name="game3_es_correct">
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="game3_es_questions">
+        <item>Abbiamo due torte.</item>
+        <item>Dov\'è il mio costume da bagno?</item>
+        <item>Potresti portarmi all\'aeroporto?</item>
+        <item>Le stanze di hotel sono troppo rumorose.</item>
+        <item>Non riesco a trovare un\'altra candela.</item>
+        <item>Ella cammina ogni sera dopo cena.</item>
+        <item>Quando è San Valentino?</item>
+        <item>Hai soffiato le candele?</item>
+        <item>Accettiamo il vostro invito.</item>
+        <item>Il teatro ha 20 anni.</item>
+        <item>Sta preparando una festa.</item>
+        <item>I bambini hanno fischietti di plastica.</item>
+        <item>Li incontro qua tutti i giorni."</item>
+        <item>Questa coperta è rossa.</item>
+        <item>Queste cameriere sono lente.</item>
+        <item>Questo aereo ha molti posti.</item>
+        <item>Ci sono venti gate in questo aeroporto.</item>
+        <item>Voglio imparare a guidare la macchina.</item>
+        <item>Siamo ancora amici?</item>
+        <item>Stasera esco.</item>
+    </string-array>
+    <string-array name="game3_it_answer1">
+        <item>There are no tickets left.</item>
+        <item>How many hotels are there near the airport?</item>
+        <item>We can\'t swin very well.</item>
+        <item>There are tourists in this country.</item>
+        <item>The train is late once again.</item>
+        <item>She walks every night after dinner.</item>
+        <item>I want to learn how to drive a car.</item>
+        <item>Is he your husband?</item>
+        <item>We accept your invitation.</item>
+        <item>We have a tiny Christmas tree.</item>
+        <item>Oceans are very big.</item>
+        <item>That\'s a big wave.</item>
+        <item>Birds seat on buoys.</item>
+        <item>This blanket is red.</item>
+        <item>My daughter read all day long.</item>
+        <item>What sports do you like?</item>
+        <item>The lifeguard sits on his chair.</item>
+        <item>I want to learn how to drive a car.</item>
+        <item>I can\'t play the piano.</item>
+        <item>I\'m going out tonight.</item>
+    </string-array>
+    <string-array name="game3_it_answer2">
+        <item>I live by the ocean,</item>
+        <item>Where is my bathing suit?</item>
+        <item>He is planning a party.</item>
+        <item>She\'s not my wife.</item>
+        <item>I can\'t find another candle.</item>
+        <item>This flight has 4 people as cabin crew.</item>
+        <item>They go out every night.</item>
+        <item>Planes fly above our house.</item>
+        <item>Birds seat on buoys.</item>
+        <item>This theatre is twenty years old.</item>
+        <item>Where\'s the security station?</item>
+        <item>Children have plastic whistles.</item>
+        <item>Where are my balls?</item>
+        <item>Where is my bathing suit?</item>
+        <item>How many hotels are there near the airport?</item>
+        <item>This plane has many seats.</item>
+        <item>My grandad likes fishing.</item>
+        <item>He is always at every party.</item>
+        <item>Kids play after school.</item>
+        <item>He likes to set up parties.</item>
+    </string-array>
+    <string-array name="game3_it_answer3">
+        <item>We have two cakes.</item>
+        <item>His sunglasses are great.</item>
+        <item>The buoy floats in the ocean.</item>
+        <item>Hotel rooms are too noisy.</item>
+        <item>Don\'t forget to pay the bill.</item>
+        <item>Trains are too crowded.</item>
+        <item>Children have plastic whistles.</item>
+        <item>Did you blow out the candles?</item>
+        <item>She invited her friends to the party.</item>
+        <item>Do you like flying?</item>
+        <item>She plays golf every week.</item>
+        <item>We hate travelling.</item>
+        <item>I like playing tennis.</item>
+        <item>This is her third marriage.</item>
+        <item>These waitresses are slow.</item>
+        <item>The kids don\'t play baseball really well.</item>
+        <item>There are twenty gates in this airport.</item>
+        <item>There are five security guards.</item>
+        <item>We accept your invitation.</item>
+        <item>What\'s your plan for New Year\'s Eve?</item>
+    </string-array>
+    <string-array name="game3_it_answer4">
+        <item>Is this the airport terminal?</item>
+        <item>I never dance.</item>
+        <item>Could you give me a lift to the airport?</item>
+        <item>Kids play after school.</item>
+        <item>Can you play baseball?</item>
+        <item>Can you dance?</item>
+        <item>When is Valentine\'s Day?</item>
+        <item>The lifeguard sits on his chair.</item>
+        <item>He left his luggage in his car.</item>
+        <item>You can buy cubes in my shop.</item>
+        <item>He is setting up a party.</item>
+        <item>He never plays golf.</item>
+        <item>I meet them here every day.</item>
+        <item>When is Valentine\'s Day?</item>
+        <item>Can you swim?</item>
+        <item>Can you sit on the clean bath towels?</item>
+        <item>Kids play with sand castles.</item>
+        <item>You never buy postcards.</item>
+        <item>Are we still friends?</item>
+        <item>His father drives a big yellow taxi.</item>
+    </string-array>
+    <string-array name="game3_it_correct">
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="game3_it_questions">
+        <item>Abbiamo due torte.</item>
+        <item>Dov\'è il mio costume da bagno?</item>
+        <item>Potresti portarmi all\'aeroporto?</item>
+        <item>Le stanze di hotel sono troppo rumorose.</item>
+        <item>Non riesco a trovare un\'altra candela.</item>
+        <item>Ella cammina ogni sera dopo cena.</item>
+        <item>Quando è San Valentino?</item>
+        <item>Hai soffiato le candele?</item>
+        <item>Accettiamo il vostro invito.</item>
+        <item>Il teatro ha 20 anni.</item>
+        <item>Sta preparando una festa.</item>
+        <item>I bambini hanno fischietti di plastica.</item>
+        <item>Li incontro qua tutti i giorni."</item>
+        <item>Questa coperta è rossa.</item>
+        <item>Queste cameriere sono lente.</item>
+        <item>Questo aereo ha molti posti.</item>
+        <item>Ci sono venti gate in questo aeroporto.</item>
+        <item>Voglio imparare a guidare la macchina.</item>
+        <item>Siamo ancora amici?</item>
+        <item>Stasera esco.</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="game1_acc">Gioco 1. Picker</string>
+    <string name="game1_basic">Clicca gioca per cominciare!</string>
+    <string name="game1_high">Scegli il suono più acuto</string>
+    <string name="game1_how_content">Picker è un gioco in cui il giocatore ascolta 2 suoni di diversa altezza. Egli deve decidere quale suono è più acuto o più grave, a seconda di ciò che chiedono le istruzioni. Indovinare un suono riduce la differenza tra le altezze del round successivo, mentre fare un errore termina il gioco. I suoni possono essere ripetuti premendo il tasto ripeti.</string>
+    <string name="game1_left">Primo suono</string>
+    <string name="game1_loss">Hai perso!</string>
+    <string name="game1_low">Scegli il suono più grave</string>
+    <string name="game1_next">Prossimo round</string>
+    <string name="game1_repeat">Ripeti</string>
+    <string name="game1_result">Punteggio finale:</string>
+    <string name="game1_right">Secondo suono</string>
+    <string name="game1_score">Punteggio</string>
+    <string name="game1_start">Inizio</string>
+    <string name="game1_success">Ottimo lavoro! Punteggio:</string>
+    <string name="game2_acc">Gioco 2. Simon.</string>
+    <string name="game2_basic">Clicca gioca per cominciare!</string>
+    <string name="game2_cat">Gatto</string>
+    <string name="game2_cow">Mucca</string>
+    <string name="game2_dog">Cane</string>
+    <string name="game2_horse">Cavallo</string>
+    <string name="game2_how_content">Simon è un gioco di memoria il cui il giocatore deve ripetere la combinazione di suoni generata dal computer nello stesso identico ordine. Inizia da un singolo suono e ne aggiunge uno in più ogni round. Ripetere la sequenza esatta in un round aggiudica al giocatore 1 punto. Fare un errore conclude il gioco.</string>
+    <string name="game2_loss">Hai perso!</string>
+    <string name="game2_next">Prossimo round</string>
+    <string name="game2_repeat">Ripeti la sequenza di suoni</string>
+    <string name="game2_result">Il tuo punteggio:</string>
+    <string name="game2_score">Punteggio</string>
+    <string name="game2_start">Inizio</string>
+    <string name="game2_success">Ottimo lavoro! Punteggio:</string>
+    <string name="game3_acc">Gioco 3. Worldwide</string>
+    <string name="game3_answer">Rispondi</string>
+    <string name="game3_answer_1">Prima traduzione</string>
+    <string name="game3_answer_2">Seconda traduzione</string>
+    <string name="game3_answer_3">Terza traduzione</string>
+    <string name="game3_answer_4">Quarta traduzione</string>
+    <string name="game3_basic">Clicca una bandiera per incominciare</string>
+    <string name="game3_end">Fine!</string>
+    <string name="game3_es">Gioca in Spagnolo</string>
+    <string name="game3_how_content">Worldwide è un gioco di traduzione dove il giocatore viene posto di fronte ad una frase in Italiano e deve tradurla in una lingua straniera. Al momento è possibile scegliere tra due lingue (Spagnolo e Italiano). Ogni frase ha 4 possibili traduzioni tra cui scegliere e solo una è corretta. Una partita consiste di 8 round con una frase ciascuno. Cliccando su una frase si fa partire la pronuncia in lingua della stessa.</string>
+    <string name="game3_it">Gioca in Inglese</string>
+    <string name="game3_pick_1">Scegli prima traduzione</string>
+    <string name="game3_pick_2">Scegli seconda traduzione</string>
+    <string name="game3_pick_3">Scegli terza traduzione</string>
+    <string name="game3_pick_4">Scegli quarta traduzione</string>
+    <string name="game3_please">Per favore scegli un opzione!</string>
+    <string name="game3_result">Il tuo punteggio:</string>
+    <string name="game3_result_bad">Ahia! Risposta errata! Il tuo punteggio:</string>
+    <string name="game3_result_good">Congratulazioni! Risposta corretta. Il tuo punteggio:</string>
+    <string name="game4_acc">Gioco 4. Mastermind</string>
+    <string name="game4_attempts">Tentativi rimasti</string>
+    <string name="game4_basic">Clicca gioca per cominciare!</string>
+    <string name="game4_code_missing">Per favore inserisci un codice completo!</string>
+    <string name="game4_code_was">Il codice era:</string>
+    <string name="game4_digit">Cifra</string>
+    <string name="game4_digit1_almost">Cifra 1. Quasi! La cifra è nel codice ma in un\'altra posizione. Potrebbe essere una posizione già indovinata!</string>
+    <string name="game4_digit1_ok">Cifra 1. OK! La cifra è nella posizione corretta</string>
+    <string name="game4_digit1_wrong">Cifra 1. Errore! La cifra non è nel codice</string>
+    <string name="game4_digit2_almost">Cifra 2. Quasi! La cifra è nel codice ma in un\'altra posizione. Potrebbe essere una posizione già indovinata!</string>
+    <string name="game4_digit2_ok">Cifra 2. OK! La cifra è nella posizione corretta</string>
+    <string name="game4_digit2_wrong">Cifra 2. Errore! La cifra non è nel codice</string>
+    <string name="game4_digit3_almost">Cifra 3. Quasi! La cifra è nel codice ma in un\'altra posizione. Potrebbe essere una posizione già indovinata!</string>
+    <string name="game4_digit3_ok">Cifra 3. OK! La cifra è nella posizione corretta</string>
+    <string name="game4_digit3_wrong">Cifra 3. Errore! La cifra non è nel codice</string>
+    <string name="game4_digit4_almost">Cifra 4. Quasi! La cifra è nel codice ma in un\'altra posizione. Potrebbe essere una posizione già indovinata!</string>
+    <string name="game4_digit4_ok">Cifra 4. OK! La cifra è nella posizione corretta</string>
+    <string name="game4_digit4_wrong">Cifra 4. Errore! La cifra non è nel codice</string>
+    <string name="game4_how_content">Mastermind è un gioco in cui il giocatore deve indovinare il codice generato casualmente dal computer. Un codice è un numero a 4 cifre, le cui cifre vanno ciascuna da 0 a 9. Chiudendo la tastiera dopo aver inserito il codice è possibile cliccare il tasto invia. Facendo un tentativo si attivano diversi suggerimenti a seconda se la cifra è nel codice e nella posizione esatta (luce verde nella versione grafica), se la cifra è nel codice ma non in quella posizione (luce gialla nella versione grafica) e se la cifra non è nel codice (luce rossa nella versione grafica). Un massimo di 9 tentativi può essere fatto prima che il gioco si concluda.</string>
+    <string name="game4_insert">Inserisci il codice nella casella sotto</string>
+    <string name="game4_lose">Accidenti hai perso!</string>
+    <string name="game4_submit">Invia</string>
+    <string name="game4_warn_minus">Errore! Non puoi inserire una cifra minore di 0.</string>
+    <string name="game4_warn_plus">Errore! Non puoi inserire una cifra maggiore di 9.</string>
+    <string name="game4_win">Congratulazioni hai vinto!</string>
+    <string name="how_to">Istruzioni</string>
+    <string name="info">Informazioni</string>
+    <string name="info_content">Suite di Audiogiochi sviluppata da Matteo Dell\'Oro, studente di Informatica Musicale all\'Università degli Studi di Milano, in collaborazione con il LIM (Laboratorio di Informatica Musicale) del Dipartimento di Informatica.</string>
+    <string name="info_content2">Fortemente consigliato l\'utilizzo con orientamento verticale.</string>
+    <string name="instr_dont">Non mostrare più</string>
+    <string name="instructions">Istruzioni</string>
+    <string name="lost_game">Torna al menù</string>
+    <string name="new_game">Nuova partita</string>
+    <string name="play">Gioca</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ricerca"</string>
+    <string name="site">lim.di.unimi.it</string>
+    <string name="site_acc">Università di Milano. Dipartimento di Informatica. Laboratorio di Informatica Musicale.</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

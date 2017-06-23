@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    tools:context=".Game1PlayActivity">
+
+    <TextView
+        android:id="@+id/game3_result"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/game1_score"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:gravity="bottom"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/game3_score"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:text="@string/game3_initial_score"
+        android:textSize="48sp"
+        android:padding="16dp"
+        android:gravity="top"
+        android:textAlignment="center" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/game3_question"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            tools:text="Question"
+            android:textSize="16sp"
+            android:padding="16dp"
+            android:gravity="bottom"
+            android:textAlignment="center" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+        <View
+            android:background="@android:color/black"
+            android:layout_height="1dp"
+            android:layout_width="match_parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+
+                <RadioButton
+                    android:id="@+id/game3_pick_1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/game3_pick_1"/>
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="4">
+
+                <TextView
+                    android:id="@+id/game3_answer_1"
+                    android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:layout_centerInParent="true"
+                    android:textSize="12sp"
+                    tools:text="Answer 1"
+                    android:gravity="center" />
+
+                <ImageView
+                    android:src="@drawable/play_arrow"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <View
+            android:background="@android:color/black"
+            android:layout_height="1dp"
+            android:layout_width="match_parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+
+                <RadioButton
+                    android:id="@+id/game3_pick_2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/game3_pick_2"/>
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="4">
+
+                <TextView
+                    android:id="@+id/game3_answer_2"
+                    android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:layout_centerInParent="true"
+                    android:textSize="12sp"
+                    tools:text="Answer 2"
+                    android:gravity="center" />
+
+                <ImageView
+                    android:src="@drawable/play_arrow"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <View
+            android:background="@android:color/black"
+            android:layout_height="1dp"
+            android:layout_width="match_parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+
+                <RadioButton
+                    android:id="@+id/game3_pick_3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/game3_pick_3"/>
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="4">
+
+                <TextView
+                    android:id="@+id/game3_answer_3"
+                    android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:layout_centerInParent="true"
+                    android:textSize="12sp"
+                    tools:text="Answer 3"
+                    android:gravity="center" />
+
+                <ImageView
+                    android:src="@drawable/play_arrow"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <View
+            android:background="@android:color/black"
+            android:layout_height="1dp"
+            android:layout_width="match_parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+
+                <RadioButton
+                    android:id="@+id/game3_pick_4"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/game3_pick_4"/>
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="4">
+
+                <TextView
+                    android:id="@+id/game3_answer_4"
+                    android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:layout_centerInParent="true"
+                    android:textSize="12sp"
+                    tools:text="Answer 4"
+                    android:gravity="center" />
+
+                <ImageView
+                    android:src="@drawable/play_arrow"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <View
+            android:background="@android:color/black"
+            android:layout_height="1dp"
+            android:layout_width="match_parent" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/game3_answer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/game3_answer"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp" />
+
+</LinearLayout>
